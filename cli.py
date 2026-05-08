@@ -1,15 +1,17 @@
+# cli.py
 from operations import add_player, list_players, get_player, give_item, level_up
 
 def print_menu():
-  print("\n-- Player Inventory Manager --")
-  print("1. Add player")
-  print("2. List players")
-  print("3. Show player")
-  print("4. Give item")
-  print("5. Level up player")
-  print("6. Quit")
+    print("\n--- Player Inventory Manager ---")
+    print("1) Add player")
+    print("2) List players")
+    print("3) Show player")
+    print("4) Give item")
+    print("5) Level up")
+    print("6) Quit")
 
-  def menu_loop():
+def menu_loop():
+    """Main CLI loop - this is the function main.py imports and calls."""
     while True:
         print_menu()
         choice = input("Choose an option (1-6): ").strip()

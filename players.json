@@ -1,0 +1,14 @@
+{
+  "Bruna": {
+    "inventory": [],
+    "level": 1,
+    "name": "Bruna"
+  },
+  "Thiago": {
+    "inventory": [
+      "Gun"
+    ],
+    "level": 1,
+    "name": "Thiago"
+  }
+}
