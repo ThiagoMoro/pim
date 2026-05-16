@@ -27,7 +27,7 @@ The project is divided into specialized modules, following best practices for co
 
 ## 💻 How to Run
 1. Clone this repository:  
-    git clone https://github.com/YOUR_USERNAME/player-inventory-manager.git  
+    git clone git@github.com:ThiagoMoro/pim.git 
 2. Navigate to the project folder:  
     cd player-inventory-manager  
 3. Run the application:  
