@@ -29,7 +29,7 @@ The project is divided into specialized modules, following best practices for co
 1. Clone this repository:  
     git clone git@github.com:ThiagoMoro/pim.git 
 2. Navigate to the project folder:  
-    cd player-inventory-manager  
+    cd pim  
 3. Run the application:  
     python main.py  
    
